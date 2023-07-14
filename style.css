@@ -1,0 +1,83 @@
+a:hover {
+  font-size: 20px;
+  text-decoration: none;
+}
+a {
+  color: #fa8072;
+}
+.center {
+  color: #dc143c;
+  font-family: "Sacramento", cursive;
+
+  padding-top: 60px;
+}
+.division {
+  color: #708090;
+}
+.div-2 {
+  padding-top: 40px;
+}
+.div-3 {
+  padding-bottom: 40px;
+}
+.image {
+  height: 350px;
+  width: 450px;
+}
+.helo {
+  color: #dc143c;
+  font-family: "Merriweather", serif;
+}
+h1,
+h4 {
+  color: #dc143c;
+}
+.header {
+  background-color: #e6e6fa;
+}
+.pasta {
+  width: 150px;
+  height: 150px;
+}
+.horizontal {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 8px;
+  width: 7%;
+  margin: 100px auto;
+}
+.kingo {
+  width: 150px;
+  height: 150px;
+}
+.parr {
+  color: #dc143c;
+  padding-bottom: 35px;
+}
+.rabbit {
+  height: 150px;
+  width: 150px;
+}
+.second {
+  color: DarkGray;
+  padding-bottom: 80px;
+}
+td {
+  padding: 15px;
+}
+
+.third {
+  padding-bottom: 80px;
+}
+.fth {
+  color: #708090;
+}
+.last {
+  background-color: #374259;
+  padding-bottom: 50px;
+}
+.teleg {
+  height: 20px;
+  width: 20px;
+}
